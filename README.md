@@ -11,6 +11,7 @@ Welcome! This guide will help you set up your environment, complete the activiti
 2. Basic familiarity with using GitHub and Codespaces.
 
 ### Steps to Create a Codespace
+
 1. **Open Repository**: Navigate to this repository in your GitHub account.
 2. **Create Codespace**: Click the `Code` button, select the `Codespaces` tab, and then click `Create codespace on main`.
 3. **Install Jupyter Notebook Extension**:  
@@ -67,3 +68,4 @@ The src folder contains a set of exercises related to Matplotlib. These exercise
 You do not have to be afraid of errors. Instead, feel free to make as many of them as possible in this codespace. You cannot go wrong, and if you do, you can always create a new, fresh codespace. The idea is for you to get familiar with the code and basics.
 
 If you feel you are stuck, feel free to ask for help.
+
